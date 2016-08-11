@@ -15,7 +15,11 @@
 
 ## - (x,y,subject)_train and (x,y,subject)_test contains the datafiles loaded into R, (x,y,subject)_merge contains the datafiles merged as train and test groups.
 
+## - features and activity contains the correct names for the x and y data sts, mean_std calculates the mean and standard deviation for x_merge.
+
 ## -
+
+
 
 
 
