@@ -17,7 +17,9 @@
 
 ## - features and activity contains the correct names for the x and y data sts, mean_std calculates the mean and standard deviation for x_merge.
 
-## -
+## - xysubject merges all prior datafiles (x,y and subject data sets)
+
+## - avgdata contains a tidy data set with the average of each variable for each activity and each subject
 
 
 
